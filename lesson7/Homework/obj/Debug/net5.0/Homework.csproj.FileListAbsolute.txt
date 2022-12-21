@@ -1,0 +1,12 @@
+c:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\c_sharp_basics\lesson7\Homework\bin\Debug\net5.0\Homework.deps.json
+c:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\c_sharp_basics\lesson7\Homework\bin\Debug\net5.0\Homework.dll
+c:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\c_sharp_basics\lesson7\Homework\bin\Debug\net5.0\ref\Homework.dll
+c:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\c_sharp_basics\lesson7\Homework\bin\Debug\net5.0\Homework.pdb
+c:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\c_sharp_basics\lesson7\Homework\obj\Debug\net5.0\Homework.csprojAssemblyReference.cache
+c:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\c_sharp_basics\lesson7\Homework\obj\Debug\net5.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\c_sharp_basics\lesson7\Homework\obj\Debug\net5.0\Homework.AssemblyInfoInputs.cache
+c:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\c_sharp_basics\lesson7\Homework\obj\Debug\net5.0\Homework.AssemblyInfo.cs
+c:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\c_sharp_basics\lesson7\Homework\obj\Debug\net5.0\Homework.csproj.CoreCompileInputs.cache
+c:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\c_sharp_basics\lesson7\Homework\obj\Debug\net5.0\Homework.dll
+c:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\c_sharp_basics\lesson7\Homework\obj\Debug\net5.0\ref\Homework.dll
+c:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\c_sharp_basics\lesson7\Homework\obj\Debug\net5.0\Homework.pdb
