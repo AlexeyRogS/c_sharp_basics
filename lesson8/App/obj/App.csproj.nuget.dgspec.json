@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Alex\\Desktop\\Study\\Coursera\\geekbrains_oleg\\c_sharp_basics\\lesson8\\App\\App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Alex\\Desktop\\Study\\Coursera\\geekbrains_oleg\\c_sharp_basics\\lesson8\\App\\App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Study\\Coursera\\geekbrains_oleg\\c_sharp_basics\\lesson8\\App\\App.csproj",
+        "projectName": "App",
+        "projectPath": "C:\\Users\\Alex\\Desktop\\Study\\Coursera\\geekbrains_oleg\\c_sharp_basics\\lesson8\\App\\App.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex\\Desktop\\Study\\Coursera\\geekbrains_oleg\\c_sharp_basics\\lesson8\\App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Alex\\Desktop\\Study\\Coursera\\geekbrains_oleg\\c_sharp_basics\\lesson8\\Homework\\Homework.csproj": {
+                "projectPath": "C:\\Users\\Alex\\Desktop\\Study\\Coursera\\geekbrains_oleg\\c_sharp_basics\\lesson8\\Homework\\Homework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alex\\Desktop\\Study\\Coursera\\geekbrains_oleg\\c_sharp_basics\\lesson8\\Homework\\Homework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Study\\Coursera\\geekbrains_oleg\\c_sharp_basics\\lesson8\\Homework\\Homework.csproj",
+        "projectName": "Homework",
+        "projectPath": "C:\\Users\\Alex\\Desktop\\Study\\Coursera\\geekbrains_oleg\\c_sharp_basics\\lesson8\\Homework\\Homework.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex\\Desktop\\Study\\Coursera\\geekbrains_oleg\\c_sharp_basics\\lesson8\\Homework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
